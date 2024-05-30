@@ -3,3 +3,11 @@ def a():
     for x in range(1,b):
         print(x)
 a()
+
+
+
+word = input("give a word")
+print(word[::-1])
+
+
+
